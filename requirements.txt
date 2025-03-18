@@ -1,0 +1,13 @@
+python
+streamlit 
+numpy
+pandas
+pickle
+tensorflow
+speech_recognition
+pyautogui
+os
+difflib
+tensorflow
+pickle
+sklearn
